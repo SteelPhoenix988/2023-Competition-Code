@@ -1,14 +1,9 @@
-//Everybot code stapled to several example codes with the TrashBot naming conventions.
+//Everybot code stapled to several example codes and modded on the fly during competition.
 //Uses PWM for arcade drive.
 //Uses CAN for arm joints and intake.
-  //They SparkMaxes may need to be configured.
 //Uses a 3 axis joystick.
   //Originally used mechanum and it made sense. 
-  //For arcade we could use whatever.
-  //Buttons for arms are super wrong. Check mapping or just do it by testing.
-//Intake currently has no code.
-  //Everybot got fancy with it and has voltages applied to keep the part sucked in.
-  //We should totally do that to make sure things don't just like...pop out.
+//Comments farther down are probably wrong and weren't updated as code evolved
 
   package frc.robot;
 
